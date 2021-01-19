@@ -2,7 +2,7 @@ name: report
 author: NamelessLeaf
 api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11]
 main: NamelessLeaf/report
-version 1.0
+version: 1.0
 description: Report system for MCPE 
 commands: 
   report:
