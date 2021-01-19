@@ -5,5 +5,5 @@ branches:
 projects:
   report:
     path: ""
-    libs:
+     libs:
 ...
